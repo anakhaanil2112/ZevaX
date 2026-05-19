@@ -141,3 +141,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+ZevaX/AI/serviceAccountKey.json
+ZevaX/AI/best.pt
+ZevaX/AI/face_embeddings.npz
